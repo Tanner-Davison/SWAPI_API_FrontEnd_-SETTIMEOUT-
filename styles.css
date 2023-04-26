@@ -1,0 +1,20 @@
+#getResBtn{
+    display:flex;
+
+}
+#residentsForm{
+    position: relative;
+    display: flex;
+    align-items: row;
+    justify-content: center;
+    gap: 50px;
+    flex-direction: row;
+    height: fit-content;
+}
+.pTag{
+    position: absolute;
+    margin-top:0px;
+    display:flex;
+    color:red;
+
+}
